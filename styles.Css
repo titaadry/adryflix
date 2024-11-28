@@ -1,0 +1,31 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2xp white;
+    padding: 20px;
+}
+
+section {
+    background: brown;
+    padding-bottom: 80xp;
+    padding-top: 80xp;
+    display: flex;
+    justify-content
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+img {
+    height: 100px;
+}
+.cstegoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
